@@ -1,2 +1,4 @@
 # meu-portiflio
-Repositorio De Porjetos
+Repositorio De Projetos 
+
+//tinha errado a palavra 'projetos'
